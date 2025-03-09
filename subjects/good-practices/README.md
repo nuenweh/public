@@ -26,7 +26,7 @@
 - [**Go**](https://golang.org/doc/effective_go.html)
 - [**gofmt**](https://golang.org/cmd/gofmt/)
 - [**goimports**](https://godoc.org/golang.org/x/tools/cmd/goimports)
-- [**foimports vs gofmt**](https://goinbigdata.com/goimports-vs-gofmt/)
+- [**goimports vs gofmt**](https://goinbigdata.com/goimports-vs-gofmt/)
 
 ### CSS
 
